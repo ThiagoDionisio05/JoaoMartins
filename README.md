@@ -1,4 +1,4 @@
-# João Mantin — Landing Page
+# João Martins — Landing Page
 
 > Site profissional de um treinador e terapeuta muscular, desenvolvido com HTML, CSS e JavaScript puro, utilizando boas práticas de UX/UI design e animações modernas.
 
@@ -25,7 +25,7 @@
 
 ## Sobre o projeto
 
-Landing page completa para o profissional João Mantin. O objetivo foi criar uma experiência visual de alto nível com foco em:
+Landing page completa para o profissional João Martins. O objetivo foi criar uma experiência visual de alto nível com foco em:
 
 - Apresentação clara dos serviços
 - Conversão (botões de contato, WhatsApp, planos)
